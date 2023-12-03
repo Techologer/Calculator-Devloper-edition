@@ -1,0 +1,121 @@
+#titlelabel{
+    font-size: 50px;
+    color: black;
+}
+#title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#status{
+    font-size: 50px;
+    color: white;
+}
+#statusdiv{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#firstnumber{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+#secondnumber{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#firstbtn{
+    margin-left: 520px;
+    position: absolute;
+    margin-top: 150px;
+}
+#secondbtn{
+    margin-left: 580px;
+    position: absolute;
+    margin-top: 150px;
+}
+#thirdbtn{
+    margin-left: 640px;
+    position: absolute;
+    margin-top: 150px;
+} 
+#fourthbtn{
+    margin-left: 700px;
+    position: absolute;
+    margin-top: 150px;
+}
+#opernation{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    color: black;
+    background-color: white;
+    border: solid black;
+    border-radius: 15px;
+}
+#operation1{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    border: solid white;
+    border-radius: 15px;
+}
+#operation2{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    color: black;
+    background-color: white;
+    border: solid black;
+    border-radius: 15px;
+}
+#operation3{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    border: solid white;
+    border-radius: 15px;
+}
+#first{
+    height: 50px;
+    width: 200px;
+    color: black;
+    border: solid white;
+}
+#second{
+    height: 50px;
+    width: 200px;
+    margin-top: 50px;
+    color: black;
+    border: solid white;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.726);
+}
+#cleaning{
+    position: absolute;
+    margin-left: 610px;
+}
+#clean{
+    height: 30px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+#operations{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+#calculorperations{
+    color: white;
+    font-size: 35px;
+}
